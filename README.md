@@ -6,3 +6,6 @@
 - [chapter9 Assignment](chapter9)
 # chapter10
 - [chapter10 Assignment](chapter10) 
+
+# Numpy Assignment
+- [Numpyassignment](numpy)
